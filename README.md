@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Masoud!
-Industrial Designer and Research Assistant with an Industrial Engineering Master’s degree from [EMU](https://ie.emu.edu.tr/en). Proficient in SolidWorks, CATIA, and Google SketchUp for 3D modeling and design. Experienced in diverse manufacturing, lecturing and hands-on technical roles, including mobile phone and POS terminal repair and configuration.
+Industrial Designer and Research Assistant with an Industrial Engineering Master’s degree from **[EMU](https://ie.emu.edu.tr/en)**. Proficient in ***SolidWorks***, ***CATIA***, and ***Google SketchUp*** for 3D modeling and design. Experienced in diverse manufacturing, lecturing and hands-on technical roles, including **mobile phone** and **POS terminal** repair and configuration.
 <!--
 **MasoudTourani/MasoudTourani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
